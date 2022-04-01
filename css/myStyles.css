@@ -1,0 +1,36 @@
+#encabezado{
+    background-color: #284B63 !important;
+}
+#navegacion{
+    background-color: #EAEAEA !important;
+    margin-top: 0;
+}
+#enlaces_nav{
+    display: flex !important;
+    font-weight: bold;
+
+}
+#btn_modal{
+    background-color: #284B63 !important;
+    border: none;
+    padding: 15px;
+    margin-top: 30px;
+
+}
+#btn_modal:hover{
+    background-color: #0d6efd !important;
+ 
+}
+#texto_modal{
+    text-align: justify;
+}
+#contenedor_grid{
+    height: 1000px !important;
+}
+.carousel-item > img{
+    width: 100% !important;
+
+}
+body{
+    font-family: 'Prompt', sans-serif !important;
+}
